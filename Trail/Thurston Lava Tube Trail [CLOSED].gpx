@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="AllTrails.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name><![CDATA[Trail Planner Map]]></name>
+    <desc><![CDATA[]]></desc>
+    <link href="http://www.alltrails.com">
+      <text>AllTrails, LLC</text>
+    </link>
+    <bounds minlat="19.41357" minlon="-155.2389" maxlat="19.41503" maxlon="-155.23687"/>
+  </metadata>
+  <rte>
+    <name><![CDATA[]]></name>
+    <desc><![CDATA[]]></desc>
+    <src>AllTrails</src>
+    <rtept lat="19.41357" lon="-155.2389">
+      <ele>1209.65</ele>
+    </rtept>
+    <rtept lat="19.41365" lon="-155.23875">
+      <ele>1213.83</ele>
+    </rtept>
+    <rtept lat="19.4138" lon="-155.23861">
+      <ele>1220.43</ele>
+    </rtept>
+    <rtept lat="19.4138" lon="-155.23861">
+      <ele>1220.43</ele>
+    </rtept>
+    <rtept lat="19.41373" lon="-155.23853">
+      <ele>1218.01</ele>
+    </rtept>
+    <rtept lat="19.41364" lon="-155.23841">
+      <ele>1216.68</ele>
+    </rtept>
+    <rtept lat="19.41364" lon="-155.23841">
+      <ele>1216.68</ele>
+    </rtept>
+    <rtept lat="19.41377" lon="-155.23847">
+      <ele>1218.27</ele>
+    </rtept>
+    <rtept lat="19.41372" lon="-155.2384">
+      <ele>1217.27</ele>
+    </rtept>
+    <rtept lat="19.41372" lon="-155.23839">
+      <ele>1217.23</ele>
+    </rtept>
+    <rtept lat="19.41376" lon="-155.2384">
+      <ele>1217.55</ele>
+    </rtept>
+    <rtept lat="19.4138" lon="-155.23837">
+      <ele>1217.45</ele>
+    </rtept>
+    <rtept lat="19.4138" lon="-155.23837">
+      <ele>1217.45</ele>
+    </rtept>
+    <rtept lat="19.41386" lon="-155.23837">
+      <ele>1217.68</ele>
+    </rtept>
+    <rtept lat="19.41385" lon="-155.23832">
+      <ele>1216.92</ele>
+    </rtept>
+    <rtept lat="19.41385" lon="-155.23832">
+      <ele>1216.92</ele>
+    </rtept>
+    <rtept lat="19.41378" lon="-155.23819">
+      <ele>1216.37</ele>
+    </rtept>
+    <rtept lat="19.41387" lon="-155.23826">
+      <ele>1216.51</ele>
+    </rtept>
+    <rtept lat="19.41395" lon="-155.23821">
+      <ele>1216.92</ele>
+    </rtept>
+    <rtept lat="19.414" lon="-155.23814">
+      <ele>1216.77</ele>
+    </rtept>
+    <rtept lat="19.41406" lon="-155.23798">
+      <ele>1216.63</ele>
+    </rtept>
+    <rtept lat="19.41408" lon="-155.23787">
+      <ele>1217.55</ele>
+    </rtept>
+    <rtept lat="19.41413" lon="-155.23781">
+      <ele>1218.92</ele>
+    </rtept>
+    <rtept lat="19.41413" lon="-155.23774">
+      <ele>1218.31</ele>
+    </rtept>
+    <rtept lat="19.41413" lon="-155.23774">
+      <ele>1218.31</ele>
+    </rtept>
+    <rtept lat="19.41414" lon="-155.23772">
+      <ele>1218.03</ele>
+    </rtept>
+    <rtept lat="19.41414" lon="-155.23772">
+      <ele>1218.03</ele>
+    </rtept>
+    <rtept lat="19.41415" lon="-155.23771">
+      <ele>1217.98</ele>
+    </rtept>
+    <rtept lat="19.41415" lon="-155.23771">
+      <ele>1217.98</ele>
+    </rtept>
+    <rtept lat="19.41494" lon="-155.23689">
+      <ele>1217.12</ele>
+    </rtept>
+    <rtept lat="19.41494" lon="-155.23689">
+      <ele>1217.12</ele>
+    </rtept>
+    <rtept lat="19.415" lon="-155.23687">
+      <ele>1217.27</ele>
+    </rtept>
+    <rtept lat="19.415" lon="-155.23687">
+      <ele>1217.27</ele>
+    </rtept>
+    <rtept lat="19.41503" lon="-155.23707">
+      <ele>1219.45</ele>
+    </rtept>
+    <rtept lat="19.4148" lon="-155.23736">
+      <ele>1221.33</ele>
+    </rtept>
+    <rtept lat="19.41475" lon="-155.2375">
+      <ele>1221.4</ele>
+    </rtept>
+    <rtept lat="19.41455" lon="-155.23781">
+      <ele>1223.58</ele>
+    </rtept>
+    <rtept lat="19.41454" lon="-155.23794">
+      <ele>1226.06</ele>
+    </rtept>
+    <rtept lat="19.41447" lon="-155.23809">
+      <ele>1226.0</ele>
+    </rtept>
+    <rtept lat="19.41439" lon="-155.23856">
+      <ele>1222.42</ele>
+    </rtept>
+    <rtept lat="19.41439" lon="-155.23856">
+      <ele>1222.42</ele>
+    </rtept>
+    <rtept lat="19.41426" lon="-155.23857">
+      <ele>1223.61</ele>
+    </rtept>
+    <rtept lat="19.41411" lon="-155.23865">
+      <ele>1223.75</ele>
+    </rtept>
+    <rtept lat="19.41411" lon="-155.23865">
+      <ele>1223.75</ele>
+    </rtept>
+    <rtept lat="19.41388" lon="-155.23855">
+      <ele>1221.48</ele>
+    </rtept>
+    <rtept lat="19.4138" lon="-155.23861">
+      <ele>1220.43</ele>
+    </rtept>
+    <rtept lat="19.4138" lon="-155.23861">
+      <ele>1220.43</ele>
+    </rtept>
+    <rtept lat="19.41365" lon="-155.23875">
+      <ele>1213.83</ele>
+    </rtept>
+    <rtept lat="19.41357" lon="-155.2389">
+      <ele>1209.65</ele>
+    </rtept>
+  </rte>
+</gpx>
