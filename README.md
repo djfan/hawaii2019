@@ -6,16 +6,16 @@
 
 
 
-![](/Users/dfan/Documents/_Dongjie/Trail/hawaii2019/img/Screen Shot 2019-07-26 at 8.06.44 PM.png)
+![](img/Screen Shot 2019-07-26 at 8.06.44 PM.png)
 
 
 
-![](/Users/dfan/Documents/_Dongjie/Trail/hawaii2019/img/Screen Shot 2019-07-26 at 6.36.27 PM.png)
+![](img/Screen Shot 2019-07-26 at 6.36.27 PM.png)
 
 
 
-![](/Users/dfan/Documents/_Dongjie/Trail/hawaii2019/img/Screen Shot 2019-07-26 at 8.07.03 PM.png)
+![](img/Screen Shot 2019-07-26 at 8.07.03 PM.png)
 
 
 
-![](/Users/dfan/Documents/_Dongjie/Trail/hawaii2019/img/Screen Shot 2019-07-25 at 11.31.01 PM.png)
+![](img/Screen Shot 2019-07-25 at 11.31.01 PM.png)
